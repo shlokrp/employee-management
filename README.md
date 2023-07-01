@@ -1,4 +1,4 @@
-This is a Employee Management software made with the help of Python and MYSQL conector.
+This is a employee management software made with the help of Python and MYSQL conector.
 
 It has the folowing Features:
 1) Employee registration.
